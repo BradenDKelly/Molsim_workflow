@@ -5,7 +5,7 @@ Molsim
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/Molsim/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/Molsim/branch/master)
 
 
-Simple workflow for atomistic simulations. It is set up to easily perform alchemical free energy calculations, but, it performs the lambda windows in series. Alas, it is designed to run on my spare computer while I do more important and novel research.
+Simple workflow for atomistic simulations. It is set up to easily perform alchemical free energy calculations, but, it performs the lambda windows in series. Alas, it is designed to run on my spare computer while I do more important and novel research. It has a basic library structure, and the user runs the simulation from a python script. An example script is found here (https://github.com/BradenDKelly/Molsim_workflow/blob/master/Molsim_workflow/example_file_4_running_gromacs.py) to get one started. You should be able to run this script from anywhere, just install this package and make sure the OS can find it.
 
 ### Copyright
 
