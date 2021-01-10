@@ -5,7 +5,7 @@ Molsim
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/Molsim/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/Molsim/branch/master)
 
 
-Simple workflow for atomistic simulations.
+Simple workflow for atomistic simulations. Currently this is only useful for serial simulations. In particular, it is set up to easily perform alchemical free energy calculations, but, it performs the lambda windows in series. Alas, it is designed to run on my spare computer while I do more important and novel research.
 
 ### Copyright
 
